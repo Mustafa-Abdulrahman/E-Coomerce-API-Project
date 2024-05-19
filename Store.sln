@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.API", "Store.API\Store.API.csproj", "{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.BL", "Store.BL\Store.BL.csproj", "{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.DAL", "Store.DAL\Store.DAL.csproj", "{2339826F-284B-4535-8366-78AAC831F982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2339826F-284B-4535-8366-78AAC831F982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2339826F-284B-4535-8366-78AAC831F982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2339826F-284B-4535-8366-78AAC831F982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2339826F-284B-4535-8366-78AAC831F982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B63B6AE-6F01-426A-A60D-5F13D14FAF41}
+	EndGlobalSection
+EndGlobal

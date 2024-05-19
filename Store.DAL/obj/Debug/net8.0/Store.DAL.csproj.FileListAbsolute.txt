@@ -1,0 +1,14 @@
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\bin\Debug\net8.0\Store.DAL.deps.json
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\bin\Debug\net8.0\Store.DAL.runtimeconfig.json
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\bin\Debug\net8.0\Store.DAL.dll
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\bin\Debug\net8.0\Store.DAL.pdb
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\obj\Debug\net8.0\Store.DAL.csproj.AssemblyReference.cache
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\obj\Debug\net8.0\Store.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\obj\Debug\net8.0\Store.DAL.AssemblyInfoInputs.cache
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\obj\Debug\net8.0\Store.DAL.AssemblyInfo.cs
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\obj\Debug\net8.0\Store.DAL.csproj.CoreCompileInputs.cache
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\obj\Debug\net8.0\Store.DAL.dll
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\obj\Debug\net8.0\refint\Store.DAL.dll
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\obj\Debug\net8.0\Store.DAL.pdb
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\obj\Debug\net8.0\Store.DAL.genruntimeconfig.cache
+D:\ITI 2023\0- Projects\AspApiProject\Store\Store.DAL\obj\Debug\net8.0\ref\Store.DAL.dll
