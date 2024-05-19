@@ -1,5 +1,6 @@
 
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Extensions.FileProviders;
 using Microsoft.IdentityModel.Tokens;
 using Store.API.Extentions;
 using Store.BL;
@@ -43,7 +44,14 @@ namespace Store.API
 				app.UseSwagger();
 				app.UseSwaggerUI();
 			}
-			
+			var folderPath = Path.Combine(builder.Environment.ContentRootPath, "Assets");
+			Directory.CreateDirectory(folderPath);
+
+			app.UseStaticFiles(new StaticFileOptions
+			{
+				FileProvider = new PhysicalFileProvider(folderPath),
+				RequestPath = "/Assets"
+			});
 			app.UseHttpsRedirection();
 			app.UseCors("AllowAllDomains");
 			app.UseAuthentication();

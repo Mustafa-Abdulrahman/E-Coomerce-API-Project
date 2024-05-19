@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\",
+  "WorkspaceRootPath": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|d:\\iti 2023\\0- projects\\e-coomerce-api-project\\store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|solutionrelative:store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.api\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.api\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|solutionrelative:store.api\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.bl\\managers\\orders\\iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.bl\\managers\\orders\\iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|solutionrelative:store.bl\\managers\\orders\\iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.bl\\managers\\orders\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.bl\\managers\\orders\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|solutionrelative:store.bl\\managers\\orders\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.bl\\managers\\prodcuts\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.bl\\managers\\prodcuts\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|solutionrelative:store.bl\\managers\\prodcuts\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.dal\\repositories\\orderprductsrepo\\iorderproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.dal\\repositories\\orderprductsrepo\\iorderproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|solutionrelative:store.dal\\repositories\\orderprductsrepo\\iorderproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.dal\\repositories\\orderprductsrepo\\orderproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.dal\\repositories\\orderprductsrepo\\orderproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|solutionrelative:store.dal\\repositories\\orderprductsrepo\\orderproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.dal\\repositories\\orderrepo\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.dal\\repositories\\orderrepo\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|solutionrelative:store.dal\\repositories\\orderrepo\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|solutionrelative:store.dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.api\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.api\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|solutionrelative:store.api\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.api\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.api\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C25D28E6-8D30-4DAC-9BCA-DBDAA5BC0CD9}|Store.API\\Store.API.csproj|solutionrelative:store.api\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|solutionrelative:store.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.bl\\serviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.bl\\serviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC8264F-0B9F-4D8A-871A-3D5B1F2B24D3}|Store.BL\\Store.BL.csproj|solutionrelative:store.bl\\serviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.dal\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.dal\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|solutionrelative:store.dal\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.dal\\repositories\\genericrepo\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.dal\\repositories\\genericrepo\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|solutionrelative:store.dal\\repositories\\genericrepo\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.dal\\repositories\\orderrepo\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.dal\\repositories\\orderrepo\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|solutionrelative:store.dal\\repositories\\orderrepo\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|d:\\iti 2023\\0- projects\\aspapiproject\\store\\store.dal\\data\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\store.dal\\data\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2339826F-284B-4535-8366-78AAC831F982}|Store.DAL\\Store.DAL.csproj|solutionrelative:store.dal\\data\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -84,11 +84,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.API\\Program.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.API\\Program.cs",
               "RelativeDocumentMoniker": "Store.API\\Program.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.API\\Program.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.API\\Program.cs",
               "RelativeToolTip": "Store.API\\Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAQwDoAAAAAAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAADoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T14:51:46.335Z",
               "EditorCaption": ""
@@ -97,209 +97,193 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ProductManager.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.BL\\Managers\\Prodcuts\\ProductManager.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.BL\\Managers\\Prodcuts\\ProductManager.cs",
               "RelativeDocumentMoniker": "Store.BL\\Managers\\Prodcuts\\ProductManager.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.BL\\Managers\\Prodcuts\\ProductManager.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.BL\\Managers\\Prodcuts\\ProductManager.cs",
               "RelativeToolTip": "Store.BL\\Managers\\Prodcuts\\ProductManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:46:39.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:46:39.855Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "categoryController.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.API\\Controller\\categoryController.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.API\\Controller\\categoryController.cs",
               "RelativeDocumentMoniker": "Store.API\\Controller\\categoryController.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.API\\Controller\\categoryController.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.API\\Controller\\categoryController.cs",
               "RelativeToolTip": "Store.API\\Controller\\categoryController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:36:39.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:36:39.118Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ServiceExtention.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.BL\\ServiceExtention.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.BL\\ServiceExtention.cs",
               "RelativeDocumentMoniker": "Store.BL\\ServiceExtention.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.BL\\ServiceExtention.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.BL\\ServiceExtention.cs",
               "RelativeToolTip": "Store.BL\\ServiceExtention.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:31:50.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:31:50.029Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ServiceExtension.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\ServiceExtension.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\ServiceExtension.cs",
               "RelativeDocumentMoniker": "Store.DAL\\ServiceExtension.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\ServiceExtension.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\ServiceExtension.cs",
               "RelativeToolTip": "Store.DAL\\ServiceExtension.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:31:27.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:31:27.446Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Store.DAL\\UnitOfWork\\UnitOfWork.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\UnitOfWork\\UnitOfWork.cs",
               "RelativeToolTip": "Store.DAL\\UnitOfWork\\UnitOfWork.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwCUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:30:24.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:30:24.27Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Store.DAL\\UnitOfWork\\IUnitOfWork.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeToolTip": "Store.DAL\\UnitOfWork\\IUnitOfWork.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAiwBQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:30:11.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:30:11.182Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Repositories\\GenericRepo\\IGenericRepository.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Repositories\\GenericRepo\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Store.DAL\\Repositories\\GenericRepo\\IGenericRepository.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Repositories\\GenericRepo\\IGenericRepository.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Repositories\\GenericRepo\\IGenericRepository.cs",
               "RelativeToolTip": "Store.DAL\\Repositories\\GenericRepo\\IGenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:24:23.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:24:23.493Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "OrderProductsRepository.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Repositories\\OrderPrductsRepo\\OrderProductsRepository.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Repositories\\OrderPrductsRepo\\OrderProductsRepository.cs",
               "RelativeDocumentMoniker": "Store.DAL\\Repositories\\OrderPrductsRepo\\OrderProductsRepository.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Repositories\\OrderPrductsRepo\\OrderProductsRepository.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Repositories\\OrderPrductsRepo\\OrderProductsRepository.cs",
               "RelativeToolTip": "Store.DAL\\Repositories\\OrderPrductsRepo\\OrderProductsRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:22:21.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:22:21.051Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IOrderProductsRepository.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Repositories\\OrderPrductsRepo\\IOrderProductsRepository.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Repositories\\OrderPrductsRepo\\IOrderProductsRepository.cs",
               "RelativeDocumentMoniker": "Store.DAL\\Repositories\\OrderPrductsRepo\\IOrderProductsRepository.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Repositories\\OrderPrductsRepo\\IOrderProductsRepository.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Repositories\\OrderPrductsRepo\\IOrderProductsRepository.cs",
               "RelativeToolTip": "Store.DAL\\Repositories\\OrderPrductsRepo\\IOrderProductsRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:22:15.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:22:15.345Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Repositories\\OrderRepo\\OrderRepository.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Repositories\\OrderRepo\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Store.DAL\\Repositories\\OrderRepo\\OrderRepository.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Repositories\\OrderRepo\\OrderRepository.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Repositories\\OrderRepo\\OrderRepository.cs",
               "RelativeToolTip": "Store.DAL\\Repositories\\OrderRepo\\OrderRepository.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:04:45.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:04:45.636Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Repositories\\OrderRepo\\IOrderRepository.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Repositories\\OrderRepo\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Store.DAL\\Repositories\\OrderRepo\\IOrderRepository.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Repositories\\OrderRepo\\IOrderRepository.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Repositories\\OrderRepo\\IOrderRepository.cs",
               "RelativeToolTip": "Store.DAL\\Repositories\\OrderRepo\\IOrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:04:43.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:04:43.912Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Data\\Entity\\Order.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Data\\Entity\\Order.cs",
               "RelativeDocumentMoniker": "Store.DAL\\Data\\Entity\\Order.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.DAL\\Data\\Entity\\Order.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.DAL\\Data\\Entity\\Order.cs",
               "RelativeToolTip": "Store.DAL\\Data\\Entity\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:04:40.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:04:40.301Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "OrderManager.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.BL\\Managers\\Orders\\OrderManager.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.BL\\Managers\\Orders\\OrderManager.cs",
               "RelativeDocumentMoniker": "Store.BL\\Managers\\Orders\\OrderManager.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.BL\\Managers\\Orders\\OrderManager.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.BL\\Managers\\Orders\\OrderManager.cs",
               "RelativeToolTip": "Store.BL\\Managers\\Orders\\OrderManager.cs",
               "ViewState": "AQIAAHQAAAAAAAAAAAAgwIsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:55:42.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T13:55:42.333Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "cartController.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.API\\Controller\\cartController.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.API\\Controller\\cartController.cs",
               "RelativeDocumentMoniker": "Store.API\\Controller\\cartController.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.API\\Controller\\cartController.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.API\\Controller\\cartController.cs",
               "RelativeToolTip": "Store.API\\Controller\\cartController.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAQwDMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:53:37.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T13:53:37.029Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IOrderManager.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.BL\\Managers\\Orders\\IOrderManager.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.BL\\Managers\\Orders\\IOrderManager.cs",
               "RelativeDocumentMoniker": "Store.BL\\Managers\\Orders\\IOrderManager.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.BL\\Managers\\Orders\\IOrderManager.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.BL\\Managers\\Orders\\IOrderManager.cs",
               "RelativeToolTip": "Store.BL\\Managers\\Orders\\IOrderManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:49:37.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T13:49:37.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "orderController.cs",
-              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.API\\Controller\\orderController.cs",
+              "DocumentMoniker": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.API\\Controller\\orderController.cs",
               "RelativeDocumentMoniker": "Store.API\\Controller\\orderController.cs",
-              "ToolTip": "D:\\ITI 2023\\0- Projects\\AspApiProject\\Store\\Store.API\\Controller\\orderController.cs",
+              "ToolTip": "D:\\ITI 2023\\0- Projects\\E-Coomerce-API-Project\\Store.API\\Controller\\orderController.cs",
               "RelativeToolTip": "Store.API\\Controller\\orderController.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAA3wE8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:08:21.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:08:21.149Z"
             }
           ]
         }

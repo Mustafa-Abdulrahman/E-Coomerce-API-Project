@@ -183,6 +183,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Store.API.Controller.FilesController",
+    "Method": "UploadFile",
+    "RelativePath": "api/Files",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Store.API.Controller.orderController",
     "Method": "addOrder",
     "RelativePath": "api/order/AddOrder",
