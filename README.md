@@ -93,7 +93,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/repo-name.git
+
 cd repo-name
 Setup Environment:
 
